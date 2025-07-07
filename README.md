@@ -1,3 +1,3 @@
-This project provides a simple application to recognize handwritten digits using OpenCV and k-NN. You can draw digits on a canvas and the model predicts the number in real time, with 95.3% accuracy.
+This project provides a simple kNN OCR model to recognize handwritten digits using OpenCV's k-NN with 95.3% accuracy. Was thinking about making it so you can draw digits to recognize.
 
-This OCR project was made using OpenCV, Tkinter, Sklearn and NumPy.
+This OCR project was made using OpenCV, Sklearn and NumPy.
